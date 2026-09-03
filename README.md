@@ -3,7 +3,7 @@ My GitHub profile and personal portfolio
 <h1 align="center">Hi 👋, I'm Karthik Konduru</h1>
 
 <h3 align="center">
-Software Developer | Python & React | B.Tech CSE 2026 | Eluru, AP
+Software Developer | Python & React | B.Tech CSE 2026 | Warangal ,TS
 </h3>
 
 <p align="center">
