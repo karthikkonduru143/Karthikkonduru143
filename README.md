@@ -23,7 +23,7 @@ Software Developer | Python & React | B.Tech CSE 2026 | Warangal ,TS
 ## 🧑‍💻 About Me
 
 * 🎓 **B.Tech Computer Science** @ Vaagdevi College of Engineering
-* 📊 **CGPA:** 8.8/10
+* 📊 **CGPA:** 7.14
 * 🏆 **Solved 100+ problems** on LeetCode & actively improving DSA skills
 * 💻 **Currently building:** Personal Portfolio + New Projects
 * 🌱 **Learning:** TypeScript, Docker, System Design
